@@ -48,7 +48,7 @@ git clone https://github.com/john-front-dev/todo-list.git
 Переходим в папку проекта:
 
 ```
-cd ToDo_test_task
+cd todo-list
 ```
 
 Устанавливаем зависимости:
